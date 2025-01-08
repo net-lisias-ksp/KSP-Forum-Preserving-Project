@@ -79,3 +79,6 @@
 2025-01-07T14:56:48Z	503 Service Unavailable: Back-end server is at capacity
 2025-01-07T14:57:13Z	503 Service Unavailable: Back-end server is at capacity
 2025-01-07T14:57:38Z	503 Service Unavailable: Back-end server is at capacity
+2025-01-07T18:01:37Z	502 Bad Gateway
+2025-01-07T21:35:26Z	502 Bad Gateway
+2025-01-09T23:25:07Z	502 Bad Gateway
